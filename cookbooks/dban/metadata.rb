@@ -1,0 +1,5 @@
+maintainer       'Facebook'
+maintainer_email 'apreece@fb.com'
+license          'All rights reserved'
+description      'Mac Mini Provisioning Dev env.'
+version          '0.1'
